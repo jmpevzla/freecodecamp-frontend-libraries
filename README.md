@@ -12,3 +12,7 @@ My solution projects of the Frontend Development Libraries Course
 3.- **Build a Drum Machine**
 
 <a href="https://codepen.io/jmaperez/full/poPOZYL"><img src="https://user-images.githubusercontent.com/87162909/128470833-53b9cd42-eefc-476b-bd30-e6595b5b148b.png" width="500"></a>
+
+4.- **Build a Javascript Machine**
+
+<a href="https://codepen.io/jmaperez/full/jOmXLqB"><img src="https://user-images.githubusercontent.com/87162909/128802972-a3b6a373-56c9-4ca0-8765-ad93a6a9ce3a.png" width="500"></a>
