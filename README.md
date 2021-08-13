@@ -16,3 +16,7 @@ My solution projects of the Frontend Development Libraries Course
 4.- **Build a Javascript Machine**
 
 <a href="https://codepen.io/jmaperez/full/jOmXLqB"><img src="https://user-images.githubusercontent.com/87162909/128802972-a3b6a373-56c9-4ca0-8765-ad93a6a9ce3a.png" width="500"></a>
+
+5.- **Build a 25 + 5 Clock**
+
+<a href="https://codepen.io/jmaperez/full/zYwbPNG"><img src="https://user-images.githubusercontent.com/87162909/129307850-724ae200-2061-4ff8-9da8-823793d98325.png" width="500"></a>
